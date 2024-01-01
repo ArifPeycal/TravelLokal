@@ -43,19 +43,19 @@ The main objective of TravelLokal is to build a user-centric platform that simpl
 
 ## Features and functionalities
 
-Sign Up/Log In/ Forgot Password
-*	Create New User: Allow users to create their new c profiles to use TravelLokal Website
-*	Social Media or Email Integration: Enable users to sign up or log in using their social media or email accounts, making the process more convenient and potentially increasing user engagement.
-*	Password Recovery: Provide a mechanism for users to recover their passwords in case they forget them, such as through email or security questions.
+**Sign Up/Log In/ Forgot Password**
+*	**Create New User:** Allow users to create their new c profiles to use TravelLokal Website
+*	**Social Media or Email Integration:** Enable users to sign up or log in using their social media or email accounts, making the process more convenient and potentially increasing user engagement.
+*	**Password Recovery:** Provide a mechanism for users to recover their passwords in case they forget them, such as through email or security questions.
 
-Account Page 
-*	User Profiles: Allow users to manage their profile, where they can change their account settings information, view their booking history, view upcoming bookings and can make payments.
+**Account Page**
+*	**User Profiles:** Allow users to manage their profile, where they can change their account settings information, view their booking history, view upcoming bookings and can make payments.
 
-Destination and Hotel Booking Page
-*	Search and Filters: Provide a search interface with filters for users to find specific travel options based on their preferences.
-*	Booking Process: Guide users through a seamless booking process, including selecting places and dates, adding to cart, and making payments.
-*	Ratings and Reviews: Provide a section where users can view and manage their ratings and reviews for past experiences.
-*	Payment Methods: Allow users to add, edit, or remove their payment methods, such as credit cards or digital wallets.
+**Destination and Hotel Booking Page**
+*	**Search and Filters:** Provide a search interface with filters for users to find specific travel options based on their preferences.
+*	**Booking Process:** Guide users through a seamless booking process, including selecting places and dates, adding to cart, and making payments.
+*	**Ratings and Reviews:** Provide a section where users can view and manage their ratings and reviews for past experiences.
+*	8*Payment Methods:** Allow users to add, edit, or remove their payment methods, such as credit cards or digital wallets.
 
 
 
