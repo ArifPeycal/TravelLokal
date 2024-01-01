@@ -55,7 +55,7 @@ The main objective of TravelLokal is to build a user-centric platform that simpl
 *	**Search and Filters:** Provide a search interface with filters for users to find specific travel options based on their preferences.
 *	**Booking Process:** Guide users through a seamless booking process, including selecting places and dates, adding to cart, and making payments.
 *	**Ratings and Reviews:** Provide a section where users can view and manage their ratings and reviews for past experiences.
-*	8*Payment Methods:** Allow users to add, edit, or remove their payment methods, such as credit cards or digital wallets.
+*	**Payment Methods:** Allow users to add, edit, or remove their payment methods, such as credit cards or digital wallets.
 
 
 
