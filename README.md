@@ -36,7 +36,7 @@ TravelLokal: Where Every Destination Beckons
 
 ## Introduction
 
-TravelLokal, an innovative web application, is set to revolutionize the exploration of Malaysia's hidden gems and local experiences. It's not just a planning tool for your next getaway but a portal to a world of wonders. The application offers personalized recommendations, user reviews and ratings, a travel itinerary planner, and connections with local guides for an authentic experience. Various promotions also come in TravelLokal, providing early bird discounts, seasonal deals, and a loyalty program to make the journey more exciting. These features and advertisements are designed to enhance your travel experience, making every click a new opportunity to create a wonderful memory in travel. We will always listen to and adapt to our users' feedback accordingly. Happy traveling with TravelLokal!
+TravelLokal, an innovative web application, is set to revolutionize the exploration of Malaysia's hidden gems and local experiences. It's not just a planning tool for your next getaway but a portal to a world of wonders. The application offers personalized recommendations, user reviews and ratings, a travel itinerary planner, and connections with local guides for an authentic experience. Various promotions also come in TravelLokal, providing early bird discounts, seasonal deals, and a loyalty program to make the journey more exciting. These features and advertisements are designed to enhance your travel experience, making every click a new opportunity to create a wonderful memory in travel.
 
 ## Objectives
 
