@@ -30,7 +30,7 @@ SECTION 2
 </div>
 </h2>
 
-## Title of Group Project
+## Travel Booking System
 
 TravelLokal: Where Every Destination Beckons
 
