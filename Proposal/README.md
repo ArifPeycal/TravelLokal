@@ -3,7 +3,7 @@
 <h2 align="center">
 
 <p align="center">
-  <img width="80%" height="15%" src="images/IIUMLOGO.jpg">
+  <img width="80%" height="15%" src="../images/IIUMLOGO.jpg">
 </p>
 
 INFO 3305 WEB APPLICATION DEVELOPMENT
@@ -63,7 +63,7 @@ The main objective of TravelLokal is to build a user-centric platform that simpl
 
 ## ERD diagram with relationship. 
 
-![Alt text](images/ERDdiagram.png)
+![Alt text](../images/ERDdiagram.png)
 
 User books Packages or Hotel: 
 * Many-to-many relationship
@@ -81,14 +81,14 @@ Review is about Packages or Hotel:
 
 ## Sequence diagram for interaction representation
 
-![Alt text](images/Sequence.png)
+![Alt text](/,,images/Sequence.png)
 
 ## Mockup
 
-![Alt text](images/Destination1.png)
-![Alt text](images/Destination2.png)
-![Alt text](images/Hotels.png)
-![Alt text](images/Hotels2.png)
-![Alt text](images/Account.png)
-![Alt text](images/LoginSignup.png)
+![Alt text](../images/Destination1.png)
+![Alt text](../images/Destination2.png)
+![Alt text](../images/Hotels.png)
+![Alt text](../images/Hotels2.png)
+![Alt text](../images/Account.png)
+![Alt text](../images/LoginSignup.png)
 
