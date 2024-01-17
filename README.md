@@ -61,7 +61,7 @@ The main objective of TravelLokal is to build a user-centric platform that simpl
 
 
 
-## ERD diagram with relationship. 
+## ERD diagram with relationship
 
 ![Alt text](images/ERDdiagram.png)
 
@@ -91,4 +91,8 @@ Review is about Packages or Hotel:
 ![Alt text](images/Hotels2.png)
 ![Alt text](images/Account.png)
 ![Alt text](images/LoginSignup.png)
+
+## Challenge/difficulties to develop the web application
+
+
 
