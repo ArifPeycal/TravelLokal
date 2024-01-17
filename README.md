@@ -86,14 +86,21 @@ Review is about Packages or Hotel:
 ## Final System
 
 **Home Page**
+
 ![Alt text](images/finalproject/home.PNG)
 
 
 **Travel Package Page**
+
 ![Alt text](images/finalproject/travelpackage.PNG)
 
 In this page it will display all available package that we offer. It will also show the price of the package, the destination, and short description about the package.
 
+**Hotel Page**
+
+![Alt text](images/finalproject/hotelpage.PNG)
+
+In the hotel page, we display all hotel options that are available for the customers. The price will be displayed along with the hotel name and also description about the hotel. 
 
 ## Challenge/difficulties to develop the web application
 
