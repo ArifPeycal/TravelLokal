@@ -102,6 +102,12 @@ In this page it will display all available package that we offer. It will also s
 
 In the hotel page, we display all hotel options that are available for the customers. The price will be displayed along with the hotel name and also description about the hotel. 
 
+**Admin Dashboard Page**
+
+![Alt text](images/finalproject/admindashboard.PNG)
+
+
+
 ## Challenge/difficulties to develop the web application
 
 1. Managing project complexity: Large and complex web applications such as Traveloka is difficult to manage, even with Laravel's features.
