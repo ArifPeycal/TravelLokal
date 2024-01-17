@@ -85,6 +85,16 @@ Review is about Packages or Hotel:
 
 ## Final System
 
+**Login Page**
+
+![Alt text](images/finalproject/login.PNG)
+
+
+**Register Page**
+
+![Alt text](images/finalproject/register.PNG)
+
+
 **Home Page**
 
 ![Alt text](images/finalproject/home.PNG)
@@ -96,15 +106,18 @@ Review is about Packages or Hotel:
 
 In this page it will display all available package that we offer. It will also show the price of the package, the destination, and short description about the package.
 
+
 **Hotel Page**
 
 ![Alt text](images/finalproject/hotelpage.PNG)
 
 In the hotel page, we display all hotel options that are available for the customers. The price will be displayed along with the hotel name and also description about the hotel. 
 
+
 **Admin Dashboard Page**
 
 ![Alt text](images/finalproject/admindashboard.PNG)
+
 
 **Add Travel Package**
 
@@ -113,6 +126,11 @@ In the hotel page, we display all hotel options that are available for the custo
 ![Alt text](images/finalproject/addtravel(1).PNG)
 
 ![Alt text](images/finalproject/addtravel(2).PNG)
+
+
+**Customer Dashboard Page**
+
+![Alt text](images/finalproject/customerdashboard.PNG)
 
 ## Challenge/difficulties to develop the web application
 
