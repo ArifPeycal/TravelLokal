@@ -106,7 +106,13 @@ In the hotel page, we display all hotel options that are available for the custo
 
 ![Alt text](images/finalproject/admindashboard.PNG)
 
+**Add Travel Package**
 
+![Alt text](images/finalproject/addtravel.PNG)
+
+![Alt text](images/finalproject/addtravel(1).PNG)
+
+![Alt text](images/finalproject/addtravel(2).PNG)
 
 ## Challenge/difficulties to develop the web application
 
