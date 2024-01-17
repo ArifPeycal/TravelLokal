@@ -83,14 +83,10 @@ Review is about Packages or Hotel:
 
 ![Alt text](images/Sequence.png)
 
-## Mockup
+## Final System
+![Alt text](images/finalproject/home.PNG)
+![Alt text](images/finalproject/travelpackage.PNG)
 
-![Alt text](images/Destination1.png)
-![Alt text](images/Destination2.png)
-![Alt text](images/Hotels.png)
-![Alt text](images/Hotels2.png)
-![Alt text](images/Account.png)
-![Alt text](images/LoginSignup.png)
 
 ## Challenge/difficulties to develop the web application
 
