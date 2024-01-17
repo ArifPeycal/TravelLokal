@@ -90,5 +90,9 @@ Review is about Packages or Hotel:
 
 ## Challenge/difficulties to develop the web application
 
+1. Managing project complexity: Large and complex web applications such as Traveloka is difficult to manage, even with Laravel's features.
+2. Review event: Due to its dependence on completed bookings, integrating it presents technical complexities that require further development.
+3. Requires more skills and understanding:Some parts of the coding requires us to learn new things from the internet. Although, it is a beneficial challenges to us.
+
 
 
