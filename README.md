@@ -30,6 +30,8 @@ SECTION 2
 </div>
 </h2>
 
+Link to Github Project
+https://github.com/syahmisalam/TravelLokal
 ## Travel Booking System
 
 TravelLokal: Where Every Destination Beckons
